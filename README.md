@@ -1,40 +1,43 @@
 # leetcode-patterns
 
-Repositorio personal para resolver y organizar ejercicios de **LeetCode 150 (Top Interview 150)** y **NeetCode 150**. El objetivo es practicar patrones de resolución de problemas, conservar las soluciones y añadir cada ejercicio resuelto al registro del proyecto.
+A personal repository for solving and organizing **LeetCode 150 (Top Interview 150)** and **NeetCode 150** problems. The goal is to practice problem-solving patterns, keep the solutions, and add each completed problem to the project log.
 
-## Contenido
+## Contents
 
-Las soluciones están agrupadas por tema. A medida que se resuelvan más ejercicios, se añadirán en la carpeta correspondiente.
+Solutions are grouped by topic. More solutions will be added to the appropriate folders as they are completed.
 
-| Tema | Ejercicios registrados |
+| Topic | Recorded problems |
 | --- | --- |
 | Arrays and Hashing | [Contains Duplicate](Arrays_and_Hashing/0217_Contains_Duplicate.py) |
+| Two Pointers | [Valid Palindrome](Two_Pointers/0125_Valid_Palindrome.py) |
 
-## Ejercicio resuelto
+## Solved problems
 
-| Problema | Tema | Archivo |
+| Problem | Topic | File |
 | --- | --- | --- |
 | 217. Contains Duplicate | Arrays and Hashing | [0217_Contains_Duplicate.py](Arrays_and_Hashing/0217_Contains_Duplicate.py) |
+| 125. Valid Palindrome | Two Pointers | [0125_Valid_Palindrome.py](Two_Pointers/0125_Valid_Palindrome.py) |
 
-## Ejecutar una solución
+## Running a solution
 
-Las soluciones actuales están escritas en Python. Desde la raíz del repositorio, ejecuta:
+The current solutions are written in Python. From the repository root, run either command:
 
 ```powershell
 python .\Arrays_and_Hashing\0217_Contains_Duplicate.py
+python .\Two_Pointers\0125_Valid_Palindrome.py
 ```
 
-El archivo incluye pruebas sencillas que se ejecutan al correrlo directamente.
+Each file includes simple tests that run when the file is executed directly.
 
-## Añadir ejercicios
+## Adding problems
 
-1. Guarda la solución en la carpeta del tema correspondiente.
-2. Usa el número de LeetCode y un nombre descriptivo en el archivo, por ejemplo: `0217_Contains_Duplicate.py`.
-3. Añade el ejercicio a las tablas de **Contenido** y **Ejercicio resuelto**.
-4. Incluye pruebas para los casos importantes y, cuando sea posible, anota el patrón utilizado.
+1. Save the solution in the folder for its topic.
+2. Name the file using the LeetCode problem number and a descriptive title, for example: `0217_Contains_Duplicate.py`.
+3. Add the problem to the **Contents** and **Solved problems** tables.
+4. Include tests for important cases and, when possible, note the pattern used.
 
-## Temas de práctica
+## Practice topics
 
-Se irán incorporando ejercicios de las distintas áreas de ambas listas, como arrays y hashing, two pointers, sliding window, stacks, binary search, linked lists, árboles, grafos, programación dinámica, greedy, intervalos y matemáticas.
+Problems from both lists will be added over time, covering areas such as arrays and hashing, two pointers, sliding window, stacks, binary search, linked lists, trees, graphs, dynamic programming, greedy algorithms, intervals, and math.
 
-Este registro refleja únicamente los ejercicios añadidos a este repositorio; no implica que las listas completas estén resueltas.
+This log reflects only the problems added to this repository; it does not mean that either list has been completed.
