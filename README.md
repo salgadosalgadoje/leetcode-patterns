@@ -9,6 +9,7 @@ Solutions are grouped by topic. More solutions will be added to the appropriate 
 | Topic | Recorded problems |
 | --- | --- |
 | Arrays and Hashing | [Contains Duplicate](Arrays_and_Hashing/0217_Contains_Duplicate.py) |
+| Sliding Window | [Best Time to Buy and Sell Stock](Sliding_Window/0121_Best_Time_To_Buy_And_Sell_Stock.py) |
 | Two Pointers | [Valid Palindrome](Two_Pointers/0125_Valid_Palindrome.py) |
 
 ## Solved problems
@@ -17,6 +18,7 @@ Solutions are grouped by topic. More solutions will be added to the appropriate 
 | --- | --- | --- |
 | 217. Contains Duplicate | Arrays and Hashing | [0217_Contains_Duplicate.py](Arrays_and_Hashing/0217_Contains_Duplicate.py) |
 | 125. Valid Palindrome | Two Pointers | [0125_Valid_Palindrome.py](Two_Pointers/0125_Valid_Palindrome.py) |
+| 121. Best Time to Buy and Sell Stock | Sliding Window | [0121_Best_Time_To_Buy_And_Sell_Stock.py](Sliding_Window/0121_Best_Time_To_Buy_And_Sell_Stock.py) |
 
 ## Running a solution
 
@@ -24,6 +26,7 @@ The current solutions are written in Python. From the repository root, run eithe
 
 ```powershell
 python .\Arrays_and_Hashing\0217_Contains_Duplicate.py
+python .\Sliding_Window\0121_Best_Time_To_Buy_And_Sell_Stock.py
 python .\Two_Pointers\0125_Valid_Palindrome.py
 ```
 
