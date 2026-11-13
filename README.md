@@ -9,6 +9,8 @@ Solutions are grouped by topic. More solutions will be added to the appropriate 
 | Topic | Recorded problems |
 | --- | --- |
 | Arrays and Hashing | [Contains Duplicate](Arrays_and_Hashing/0217_Contains_Duplicate.py) |
+| Binary Search | [Binary Search](Binary_Search/0704_Binary_Search.py) |
+| Linked List | [Reverse Linked List](Linked_List/0206_Reverse_Linked_List.py) |
 | Sliding Window | [Best Time to Buy and Sell Stock](Sliding_Window/0121_Best_Time_To_Buy_And_Sell_Stock.py) |
 | Two Pointers | [Valid Palindrome](Two_Pointers/0125_Valid_Palindrome.py) |
 
@@ -17,15 +19,19 @@ Solutions are grouped by topic. More solutions will be added to the appropriate 
 | Problem | Topic | File |
 | --- | --- | --- |
 | 217. Contains Duplicate | Arrays and Hashing | [0217_Contains_Duplicate.py](Arrays_and_Hashing/0217_Contains_Duplicate.py) |
-| 125. Valid Palindrome | Two Pointers | [0125_Valid_Palindrome.py](Two_Pointers/0125_Valid_Palindrome.py) |
+| 704. Binary Search | Binary Search | [0704_Binary_Search.py](Binary_Search/0704_Binary_Search.py) |
+| 206. Reverse Linked List | Linked List | [0206_Reverse_Linked_List.py](Linked_List/0206_Reverse_Linked_List.py) |
 | 121. Best Time to Buy and Sell Stock | Sliding Window | [0121_Best_Time_To_Buy_And_Sell_Stock.py](Sliding_Window/0121_Best_Time_To_Buy_And_Sell_Stock.py) |
+| 125. Valid Palindrome | Two Pointers | [0125_Valid_Palindrome.py](Two_Pointers/0125_Valid_Palindrome.py) |
 
 ## Running a solution
 
-The current solutions are written in Python. From the repository root, run either command:
+The current solutions are written in Python. From the repository root, you can run any of the files below:
 
 ```powershell
 python .\Arrays_and_Hashing\0217_Contains_Duplicate.py
+python .\Binary_Search\0704_Binary_Search.py
+python .\Linked_List\0206_Reverse_Linked_List.py
 python .\Sliding_Window\0121_Best_Time_To_Buy_And_Sell_Stock.py
 python .\Two_Pointers\0125_Valid_Palindrome.py
 ```
