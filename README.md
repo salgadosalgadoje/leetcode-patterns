@@ -13,6 +13,7 @@ Solutions are grouped by topic. More solutions will be added to the appropriate 
 | Linked List | [Reverse Linked List](Linked_List/0206_Reverse_Linked_List.py) |
 | Sliding Window | [Best Time to Buy and Sell Stock](Sliding_Window/0121_Best_Time_To_Buy_And_Sell_Stock.py) |
 | Stack | [Valid Parentheses](Stack/0020_Valid_Parentheses.py) |
+| Trees | [Invert Binary Tree](Trees/0226_Invert_Binary_Tree.py) |
 | Two Pointers | [Valid Palindrome](Two_Pointers/0125_Valid_Palindrome.py) |
 
 ## Solved problems
@@ -24,6 +25,7 @@ Solutions are grouped by topic. More solutions will be added to the appropriate 
 | 206. Reverse Linked List | Linked List | [0206_Reverse_Linked_List.py](Linked_List/0206_Reverse_Linked_List.py) |
 | 121. Best Time to Buy and Sell Stock | Sliding Window | [0121_Best_Time_To_Buy_And_Sell_Stock.py](Sliding_Window/0121_Best_Time_To_Buy_And_Sell_Stock.py) |
 | 20. Valid Parentheses | Stack | [0020_Valid_Parentheses.py](Stack/0020_Valid_Parentheses.py) |
+| 226. Invert Binary Tree | Trees | [0226_Invert_Binary_Tree.py](Trees/0226_Invert_Binary_Tree.py) |
 | 125. Valid Palindrome | Two Pointers | [0125_Valid_Palindrome.py](Two_Pointers/0125_Valid_Palindrome.py) |
 
 ## Running a solution
@@ -36,6 +38,7 @@ python .\Binary_Search\0704_Binary_Search.py
 python .\Linked_List\0206_Reverse_Linked_List.py
 python .\Sliding_Window\0121_Best_Time_To_Buy_And_Sell_Stock.py
 python .\Stack\0020_Valid_Parentheses.py
+python .\Trees\0226_Invert_Binary_Tree.py
 python .\Two_Pointers\0125_Valid_Palindrome.py
 ```
 
